@@ -1,7 +1,7 @@
 {
     "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "project-repository": "https://github.com/sujeetyeramareddy9/NFL-Analysis",
+    "dockerhub-repository": "https://hub.docker.com/r/yol146/dsc180a-hw5",
+    "project-website-url": "https://jonlangley2022.github.io",
+    "project-website-code": "https://github.com/JonLangley2022/jonlangley2022.github.io"
 }
