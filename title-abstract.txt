@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+NFL-Analysis
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+After researching about a new inference correction approach called post-prediction inference, we chose to apply it to sports analysis based on NFL games. We designed a model that can predict the Spread of a football game, such as which team will win and what the margin of their victory will be. We then analyzed the most/least important features so that we can accurately correct inference for these variables in order to more accurately understand their impact on our response variable, Spread.
